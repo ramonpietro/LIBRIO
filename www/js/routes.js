@@ -24,7 +24,7 @@ var app = new Framework7({
 	  on: {
 		pageBeforeIn: function (event, page) {
 		// fazer algo antes da página ser exibida
-    $("#menuPrincipal").show("fast")
+    $("#menuPrincipal").show("fast");
 		},
 		pageAfterIn: function (event, page) {
 		// fazer algo depois da página ser exibida
@@ -36,54 +36,56 @@ var app = new Framework7({
       slidesPerView: 1,
       spaceBetween: 30,
       freeMode: true,
-      loop: true,
-      autoplay: true,
-      delay: 3000,
+      loop:true,
+      autoplay:true,
+      delay:3000,
       pagination: {
         el: ".swiper-pagination",
         clickable: true,
       },
-      breakpoints: {
-        50: {
-          slidesPerView: 1,
-          spaceBetween: 30
+      breakpoints:{
+        50:{
+          slidesPerView:1,
+          spaceBetween:30
         },
-        640: {
-          slidesPerView: 2,
-          spaceBetween: 30
+        640:{
+          slidesPerView:2,
+          spaceBetween:30
         },
-        992: {
-          slidesPerView: 3,
-          spaceBetween: 30
+        992:{
+          slidesPerView:3,
+          spaceBetween:30
         },
-        1200: {
-          slidesPerView: 4,
-          spaceBetween: 30
+        1200:{
+          slidesPerView:4,
+          spaceBetween:30
         }
+
       }
     });
-
-    var swiper2 = new Swiper(".categorias", {
+        var swiper2 = new Swiper(".categorias", {
       slidesPerView: 3,
       spaceBetween: 10,
       freeMode: true,
-      breakpoints: {
-        50: {
-          slidesPerView: 3,
-          spaceBetween: 30
+      
+      breakpoints:{
+        50:{
+          slidesPerView:3,
+          spaceBetween:10
         },
-        640: {
-          slidesPerView: 6,
-          spaceBetween: 30
+        640:{
+          slidesPerView:6,
+          spaceBetween:10
         },
-        992: {
-          slidesPerView: 12,
-          spaceBetween: 30
+        992:{
+          slidesPerView:8,
+          spaceBetween:10
         },
-        1200: {
-          slidesPerView: 12,
-          spaceBetween: 30
+        1200:{
+          slidesPerView:12,
+          spaceBetween:10
         }
+
       }
     });
 		},
@@ -130,7 +132,7 @@ var app = new Framework7({
 		},
 	  }
     },
-       {
+        {
       path: '/link4/',
       url: 'link4.html',
       animate: false,
@@ -143,32 +145,14 @@ var app = new Framework7({
 		},
 		pageInit: function (event, page) {
 		// fazer algo quando a página for inicializada
+
 		},
 		pageBeforeRemove: function (event, page) {
 		// fazer algo antes da página ser removida do DOM
 		},
 	  }
     },
-    {
-      path: '/carrinho/',
-      url: 'carrinho.html',
-      animate: false,
-	  on: {
-		pageBeforeIn: function (event, page) {
-		// fazer algo antes da página ser exibida
-    $("#menuPrincipal").hide("fast")
-		},
-		pageAfterIn: function (event, page) {
-		// fazer algo depois da página ser exibida
-		},
-		pageInit: function (event, page) {
-		// fazer algo quando a página for inicializada
-		},
-		pageBeforeRemove: function (event, page) {
-		// fazer algo antes da página ser removida do DOM
-		},
-	  }
-    },
+
     {
       path: '/detalhes/',
       url: 'detalhes.html',
@@ -176,13 +160,37 @@ var app = new Framework7({
 	  on: {
 		pageBeforeIn: function (event, page) {
 		// fazer algo antes da página ser exibida
-    $("#menuPrincipal").hide("fast")
+    $("#menuPrincipal").hide("fast");
 		},
 		pageAfterIn: function (event, page) {
 		// fazer algo depois da página ser exibida
 		},
 		pageInit: function (event, page) {
 		// fazer algo quando a página for inicializada
+       $.getScript('js/detalhes.js');
+		},
+		pageBeforeRemove: function (event, page) {
+		// fazer algo antes da página ser removida do DOM
+		},
+	  }
+    },
+
+     {
+      path: '/carrinho/',
+      url: 'carrinho.html',
+      animate: false,
+	  on: {
+		pageBeforeIn: function (event, page) {
+		// fazer algo antes da página ser exibida
+    $("#menuPrincipal").hide("fast");
+		},
+		pageAfterIn: function (event, page) {
+		// fazer algo depois da página ser exibida
+		},
+		pageInit: function (event, page) {
+		// fazer algo quando a página for inicializada
+    $.getScript('js/carrinho.js');
+
 		},
 		pageBeforeRemove: function (event, page) {
 		// fazer algo antes da página ser removida do DOM
