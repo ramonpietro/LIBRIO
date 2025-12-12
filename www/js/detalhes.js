@@ -13,6 +13,7 @@ if(item){
     $("#imagem-detalhe").attr('src',item.imagem);
     $("#nome-detalhe").html(item.nome);
     $("#rating-detalhe").html(item.rating);
+    $("#descricao").html(item.descricao);
     /*
         para os alunos fazer o resto
     */

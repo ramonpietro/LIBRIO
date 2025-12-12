@@ -57,7 +57,7 @@ body{
 }
 
 .prod-content{
-    background: var(--branco);
+    background: var(--preto);
     border-top-right-radius: 20px;
     border-top-left-radius: 20px;
     margin-top: -50px;
@@ -84,6 +84,11 @@ body{
 .line b{
     font-size: 25px;
 }
+
+#descricao * {
+    text-transform: none !important;
+}
+
 
 .btn-rates{
     border: 1px solid #cbcbcb;

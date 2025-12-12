@@ -22,7 +22,7 @@ body{
 }
 
 .toolbar-inner{
-    background: var(--branco);
+    background: var(--preto);
     border-top: var(--gelo);
 }
 
@@ -35,7 +35,7 @@ body{
 }
 
 .toolbar-inner .link:not(.active){
-    color: var(--preto);
+    color: var(--branco);
 	font-weight:normal;
 }
 
@@ -50,10 +50,11 @@ body{
     display: flex;
     align-items: center;
     justify-content: space-between;
+    background: var(--preto);
 }
 
 .title-logo{
-    font-weight: 600;
+    width: 18%;;
     margin-left: 5%;
 }
 
@@ -106,7 +107,7 @@ form{
     padding-top: 10px;
     background: var(--branco);
     padding-bottom: 20px;
-    
+    background: var(--preto);
 }
 
 input[type="text"]{
@@ -132,33 +133,35 @@ input[type="text"]{
 
 .page-content{
     background: var(--branco);
+    background: var(--preto);
 }
 
-   .swiper {
-      width: 100%;
-      height: 100%;
-    }
+.swiper {
+    width: 100%;
+    height: 100%;
+}
 
-    .swiper-slide {
-      text-align: center;
-      font-size: 18px;
-      background: #fff;
-      display: flex;
-      justify-content: center;
-      align-items: center;
-    }
+.swiper-slide {
+    text-align: center;
+    font-size: 18px;
 
-    .swiper-slide img {
-      display: block;
-      width: 100%;
-      height: 100%;
-      object-fit: cover;
-    }
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
 
-    .block{
-        margin-left: 2%;
-        margin-right: 2%;
-    }
+.swiper-slide img {
+    display: block;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.block{
+    margin-left: 2%;
+    margin-right: 2%;
+    color: var(--branco);
+}
 
 .filter-btn{
     width: 100%;
@@ -182,7 +185,7 @@ input[type="text"]{
     display: flex;
     flex-wrap: nowrap;
     flex-direction: column;
-    height: 240px;
+    height: 260px;
     flex:45%;
     margin-right: 5px;
     margin-bottom: 15px;
@@ -193,14 +196,15 @@ input[type="text"]{
     align-items: center;
     justify-content: center;
     width: 100%;
-    height: 180px;
+    height: 220px;
     border-radius: 10px;
-    background: var(--gelo);
+    background: var(--branco);
 }
 
 .img-container img{
-    max-width: 150px;
+    width: 120px;
     object-fit: cover;
+    margin: 8px;
 }
 
 .nome-aval{
@@ -223,6 +227,10 @@ input[type="text"]{
 
 .preco{
     font-size: 20px;
+}
+
+.toolbar-bottom {
+    background: var(--preto);
 }
 
 @media(min-width: 992px){

@@ -1,53 +1,53 @@
 [
     {
         "id": 1,
-        "imagem": "img/airpod.png",
-        "nome": "Airpod",
+        "imagem": "img/materia-escura.png",
+        "nome": "Matéria Escura",
         "principal_caracteristica": "Branco",
-        "rating": 4.5,
-        "likes": "91%",
+        "rating": 4.6,
+        "likes": "98%",
         "reviews": 25,
-        "descricao": "Experimente a liberdade musical sem limites com os AirPods! Conectividade instantânea, som cristalino e design elegante. Viva a experiência sem fios que redefine a maneira como você ouve música. AirPods: a revolução do áudio sem esforço.",
+        "descricao": "VOCÊ É FELIZ COM A VIDA QUE TEM?\n\nEssas são as últimas palavras que Jason Dessen ouve antes de acordar num laboratório, preso a uma maca. Raptado por um homem mascarado, Jason é levado para uma usina abandonada e deixado inconsciente. Quando acorda, um estranho sorri para ele, dizendo: \"Bem-vindo de volta, amigo.\"\n\nNeste novo mundo, Jason leva outra vida. Sua esposa não é sua esposa, seu filho nunca nasceu e, em vez de professor numa universidade mediana, ele é um gênio da física quântica que conseguiu um feito inimaginável. Algo impossível. Será que é este seu mundo, e o outro é apenas um sonho? E, se esta não for a vida que ele sempre levou, como voltar para sua família e tudo que ele conhece por realidade?\n\nCom ritmo veloz e muita ação, Matéria escura nos leva a um universo muito maior do que imaginamos, ao mesmo tempo em que comove ao colocar em primeiro plano o amor pela família. Marcante e intimista, seus múltiplos cenários compõem uma história que aborda questões profundamente humanas, como identidade, o peso das escolhas e até onde vamos para recuperar a vida com que sonhamos.\n\nO livro figurou na lista de mais vendidos do The New York Times e ficou entre os finalistas do Goodreads Choice Awards na categoria melhor livro de ficção científica de 2016.\n\nMatéria escura ficou entre os vinte livros eleitos pela Amazon como Melhores do Ano de 2016, na categoria mistério e thriller.\n\nOs direitos de adaptação do livro para o cinema foram adquiridos pela Sony Pictures.\n\nBlake Crouch é autor da trilogia Wayward Pines, que deu origem à série de TV exibida pela FOX, atualmente na segunda temporada. O programa é produzido por M. Night Shyamalan, o célebre diretor de O Sexto Sentido , Sinais e A Vila.\n\n\"Você vai devorar Matéria escura em uma tarde, ou, mais provavelmente, uma noite.\" The New York Times\n\n\"O thriller mais alucinante que você vai ler este ano.\" The Guardian.",
         "detalhes": [
             {
-                "caracteristica": "Conectividade",
-                "detalhes": "Bluetooth 5.0 para conexão rápida e estável"
+                "caracteristica": "Autor",
+                "detalhes": "Blake Crouch"
             },
             {
-                "caracteristica": "Qualidade de Som",
-                "detalhes": "Áudio nítido e envolvente com tecnologia de cancelamento de ruído"
+                "caracteristica": "Gênero",
+                "detalhes": "Ficção Científica"
             },
             {
-                "caracteristica": "Design",
-                "detalhes": "Ergonômico e discreto, se encaixa perfeitamente no ouvido"
+                "caracteristica": "Número de páginas",
+                "detalhes": "352 páginas"
             },
             {
-                "caracteristica": "Bateria",
-                "detalhes": "Autonomia de até 5 horas de reprodução contínua, com estojo de carregamento"
+                "caracteristica": "Idioma",
+                "detalhes": "Português"
             },
             {
-                "caracteristica": "Controles",
-                "detalhes": "Toque intuitivo para reprodução, pausa e atendimento de chamadas"
+                "caracteristica": "Editora",
+                "detalhes": "Intrínseca"
             },
             {
-                "caracteristica": "Compatibilidade",
-                "detalhes": "Compatível com dispositivos iOS, Android e outros equipamentos com Bluetooth"
+                "caracteristica": "Data da publicação",
+                "detalhes": "14 fevereiro 2017"
             },
             {
-                "caracteristica": "Sensores",
-                "detalhes": "Sensores integrados para pausa automática ao remover dos ouvidos"
+                "caracteristica": "ISBN-10",
+                "detalhes": "8551001221"
             },
             {
-                "caracteristica": "Resistência",
-                "detalhes": "Resistente a respingos e suor, ideal para uso durante exercícios físicos"
+                "caracteristica": "ISBN-13",
+                "detalhes": "978-8551001226"
             }
         ],
-        "preco": 239.99,
-        "preco_promocional": 229.99
+        "preco": 98.00,
+        "preco_promocional": 90.00
     },
     {
         "id": 2,
-        "imagem": "img/iphone.png",
+        "imagem": "img/o-fim-da-eternidade.png",
         "nome": "Iphone 15 Pro Max",
         "principal_caracteristica": "2 TB",
         "rating": 3.8,
