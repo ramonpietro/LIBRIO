@@ -48,151 +48,227 @@
     {
         "id": 2,
         "imagem": "img/o-fim-da-eternidade.png",
-        "nome": "Iphone 15 Pro Max",
+        "nome": "O Fim da Eternidade",
         "principal_caracteristica": "2 TB",
-        "rating": 3.8,
+        "rating": 4.8,
         "likes": "94%",
         "reviews": 15,
         "descricao": "Explore o futuro da tecnologia com o iPhone 15 Pro Max. Desempenho excepcional, câmeras revolucionárias, e uma tela impressionante. Experimente a inovação nas suas mãos com design elegante e recursos avançados. iPhone 15 Pro Max - a evolução definitiva da experiência móvel.",
         "detalhes": [
             {
-                "caracteristica": "Desempenho",
-                "detalhes": "Potente processador A16 para execução suave de aplicativos e jogos"
+                "caracteristica": "Autor",
+                "detalhes": "Isaac Asimov"
             },
             {
-                "caracteristica": "Câmeras",
-                "detalhes": "Sistema de câmera tripla com tecnologia avançada para capturas incríveis em qualquer ambiente"
+                "caracteristica": "Gênero",
+                "detalhes": "Ficção Científica"
             },
             {
-                "caracteristica": "Tela",
-                "detalhes": "Display Super Retina XDR de 6.7 polegadas com resolução nítida e cores vibrantes"
+                "caracteristica": "Número de páginas",
+                "detalhes": "256 páginas"
             },
             {
-                "caracteristica": "Design",
-                "detalhes": "Corpo elegante em materiais premium, combinando estilo e durabilidade"
+                "caracteristica": "Idioma",
+                "detalhes": "Português"
             },
             {
-                "caracteristica": "Armazenamento",
-                "detalhes": "Opções generosas de armazenamento interno para suas fotos, vídeos e aplicativos"
+                "caracteristica": "Editora",
+                "detalhes": "Aleph"
             },
             {
-                "caracteristica": "Bateria",
-                "detalhes": "Longa duração de bateria para acompanhar seu dia a dia sem preocupações"
+                "caracteristica": "Data da publicação",
+                "detalhes": "10 setembro 2019"
             },
             {
-                "caracteristica": "Sistema Operacional",
-                "detalhes": "Integração perfeita com o iOS, oferecendo a última versão do sistema operacional"
+                "caracteristica": "ISBN-10",
+                "detalhes": "8576574225"
             },
             {
-                "caracteristica": "Conectividade",
-                "detalhes": "Recursos avançados, incluindo 5G para uma conexão ultrarrápida"
-            },
-            {
-                "caracteristica": "Segurança",
-                "detalhes": "Recursos de segurança avançados, incluindo reconhecimento facial e autenticação biométrica"
+                "caracteristica": "ISBN-13",
+                "detalhes": "978-8576574224"
             }
         ],
-        "preco": 15599.99,
-        "preco_promocional": 14999.99
+        "preco": 50.00,
+        "preco_promocional": 40.00
     },
     {
         "id": 3,
-        "imagem": "img/xbox.png",
-        "nome": "Xbox Series X",
-        "principal_caracteristica": "1 TB",
-        "rating": 4.5,
-        "likes": "96%",
+        "imagem": "img/a-guerra-dos-mundos.png",
+        "nome": "A Guerra dos Mundos",
+        "rating": 4.6,
+        "likes": "90%",
         "reviews": 25,
-        "descricao": "Explore o ápice do entretenimento gamer com o Xbox Series X. Desfrute de desempenho inigualável, gráficos de última geração e uma experiência imersiva como nunca antes. Xbox Series X - o futuro dos jogos está em suas mãos.",
+        "descricao": "Eles vieram do espaço. Eles vieram de Marte. Com tripés biomecânicos gigantes, querem conquistar a Terra e manter os humanos como escravos. Nenhuma tecnologia terrestre parece ser capaz de conter a expansão do terror pelo planeta. É o começo da guerra mais importante da história. Como a humanidade poderá resistir à investida de um potencial bélico tão superior? Publicado pela primeira vez em 1898, A guerra dos mundos aterrorizou e divertiu muitas gerações de leitores. Esta edição especial contém as ilustrações originais criadas em 1906 por Henrique Alvim Corrêa, brasileiro radicado na Bélgica. Conta também com um prefácio escrito por Braulio Tavares, uma introdução de Brian Aldiss, membro da H. G. Wells Society, e uma entrevista com H. G. Wells e o famoso cineasta Orson Welles - responsável pelo sucesso radiofônico de A guerra dos mundos em 1938 -, que fazem desta a edição definitiva para fãs de Wells",
         "detalhes": [
             {
-                "caracteristica": "Desempenho",
-                "detalhes": "Processador customizado para oferecer jogabilidade suave e gráficos impressionantes"
+                "caracteristica": "Autor",
+                "detalhes": "H. G. Wells"
             },
             {
-                "caracteristica": "Gráficos",
-                "detalhes": "Capacidade de reprodução em 4K real, proporcionando visuais incrivelmente detalhados"
+                "caracteristica": "Gênero",
+                "detalhes": "Ficção Científica"
             },
             {
-                "caracteristica": "Armazenamento",
-                "detalhes": "SSD ultra rápido para carregamento instantâneo de jogos e experiência sem lag"
+                "caracteristica": "Número de páginas",
+                "detalhes": "312 páginas"
             },
             {
-                "caracteristica": "Design",
-                "detalhes": "Design arrojado e compacto, complementando qualquer setup gamer"
+                "caracteristica": "Idioma",
+                "detalhes": "Português"
             },
             {
-                "caracteristica": "Controle",
-                "detalhes": "Controle sem fio avançado com tecnologia Bluetooth e gatilhos adaptativos"
+                "caracteristica": "Editora",
+                "detalhes": "Suma"
             },
             {
-                "caracteristica": "Biblioteca de Jogos",
-                "detalhes": "Acesso a uma ampla variedade de jogos, incluindo títulos exclusivos do Xbox Game Studios"
+                "caracteristica": "Data da publicação",
+                "detalhes": "27 maio 2016"
             },
             {
-                "caracteristica": "Compatibilidade",
-                "detalhes": "Compatibilidade retroativa com jogos de Xbox One, Xbox 360 e Xbox original"
+                "caracteristica": "ISBN-10",
+                "detalhes": "8556510094"
             },
             {
-                "caracteristica": "Conectividade",
-                "detalhes": "Conectividade online estável para experiência multiplayer sem interrupções"
-            },
-            {
-                "caracteristica": "Resolução",
-                "detalhes": "Capaz de suportar até 120 frames por segundo para uma jogabilidade ultrafluida"
+                "caracteristica": "ISBN-13",
+                "detalhes": "978-8556510099"
             }
         ],
-        "preco": 3999.99,
-        "preco_promocional": 3799.99
+        "preco": 65.80,
+        "preco_promocional": 65.80
     },
     {
         "id": 4,
-        "imagem": "img/macbook.png",
-        "nome": "MacBook Pro 2023",
-        "principal_caracteristica": "512 GB 16GB RAM",
+        "imagem": "img/encontro-com-rama.png",
+        "nome": "Encontro Com Rama",
         "rating": 4.8,
         "likes": "89%",
         "reviews": 30,
-        "descricao": "Eleve sua produtividade ao próximo nível com o MacBook Pro 2023. Desempenho excepcional, design elegante e a confiabilidade que você espera da Apple. MacBook Pro 2023 - a escolha definitiva para profissionais criativos e usuários exigentes.",
+        "descricao": "Após a terrível colisão de um meteorito contra o continente europeu, líderes mundiais e cientistas criaram um sistema de monitoramento para evitar que essas catástrofes voltassem a acontecer. Quase cinquenta anos depois, a humanidade acompanha, alarmada, a chegada de um novo objeto de proporções inimagináveis que avança na direção de nosso Sol. Uma expedição é enviada para explorar o que se imagina ser um meteoro colossal, mas que se revela uma sofisticada construção, repleta de enigmas que desafiam a mente e os conceitos humanos.",
         "detalhes": [
             {
-                "caracteristica": "Desempenho",
-                "detalhes": "Processador M2 personalizado para velocidade e eficiência superiores"
+                "caracteristica": "Autor",
+                "detalhes": "Arthur C. Clarke"
             },
             {
-                "caracteristica": "Tela",
-                "detalhes": "Tela Retina de 14 polegadas com cores vibrantes e resolução surpreendente"
+                "caracteristica": "Gênero",
+                "detalhes": "Ficção Científica"
             },
             {
-                "caracteristica": "Armazenamento",
-                "detalhes": "SSD de alta capacidade para armazenar e acessar seus arquivos com rapidez"
+                "caracteristica": "Número de páginas",
+                "detalhes": "288 páginas"
             },
             {
-                "caracteristica": "Design",
-                "detalhes": "Corpo de alumínio elegante e ultrafino, combinando estilo e portabilidade"
+                "caracteristica": "Idioma",
+                "detalhes": "Português"
             },
             {
-                "caracteristica": "Teclado",
-                "detalhes": "Teclado Magic Keyboard retroiluminado para digitação confortável em qualquer ambiente"
+                "caracteristica": "Editora",
+                "detalhes": "Aleph"
             },
             {
-                "caracteristica": "Bateria",
-                "detalhes": "Bateria de longa duração para acompanhar seu dia de trabalho sem interrupções"
+                "caracteristica": "Data da publicação",
+                "detalhes": "4 fevereiro 2020"
             },
             {
-                "caracteristica": "Sistema Operacional",
-                "detalhes": "Integração perfeita com o macOS, oferecendo uma experiência fluida e intuitiva"
+                "caracteristica": "ISBN-10",
+                "detalhes": "8576574799"
             },
             {
-                "caracteristica": "Conectividade",
-                "detalhes": "Portas Thunderbolt para transferências de dados ultrarrápidas e conectividade versátil"
-            },
-            {
-                "caracteristica": "Segurança",
-                "detalhes": "Recursos avançados, incluindo Touch ID para desbloqueio seguro e pagamentos"
+                "caracteristica": "ISBN-13",
+                "detalhes": "978-8576574798"
             }
         ],
-        "preco": 8999.99,
-        "preco_promocional": 8699.99
+        "preco": 54.55,
+        "preco_promocional": 54.55
+    },
+    {
+        "id": 5,
+        "imagem": "img/flores-para-algernon.png",
+        "nome": "Flores Para Algernon",
+        "rating": 4.8,
+        "likes": "89%",
+        "reviews": 30,
+        "descricao": "Com excesso de erros no início do romance, os relatos de Charlie revelam sua condição limitada, consequência de uma grave deficiência intelectual, que ao menos o mantém protegido dentro de um “mundo” particular – indiferente às gozações dos colegas de trabalho e intocado por tragédias familiares. Porém, ao participar de uma cirurgia revolucionária que aumenta o seu QI, ele não apenas se torna mais inteligente que os próprios médicos que o operaram, como também vira testemunha de uma nova realidade: ácida, crua e problemática. Se o conhecimento é uma benção, Daniel Keyes constrói um personagem complexo e intrigante, que questiona essa sorte e reflete sobre suas relações sociais e a própria existência. E tudo isso ao lado de Algernon, seu rato de estimação e a primeira cobaia bem-sucedida no processo cirúrgico. Perturbador e profundo, Flores para Algernon é tão contemporâneo quanto na época de sua primeira publicação, debatendo visões de mundo, relações interpessoais e, claro, a percepção sobre nós mesmos. Assim, se você está preparado para explorar as realidades de Charlie Gordon, também é a chance para perguntar: afinal, o mundo que sempre percebemos a nossa volta realmente existe?",
+        "detalhes": [
+            {
+                "caracteristica": "Autor",
+                "detalhes": "Daniel Keys"
+            },
+            {
+                "caracteristica": "Gênero",
+                "detalhes": "Ficção Científica"
+            },
+            {
+                "caracteristica": "Número de páginas",
+                "detalhes": "288 páginas"
+            },
+            {
+                "caracteristica": "Idioma",
+                "detalhes": "Português"
+            },
+            {
+                "caracteristica": "Editora",
+                "detalhes": "Aleph"
+            },
+            {
+                "caracteristica": "Data da publicação",
+                "detalhes": "10 julho 2018"
+            },
+            {
+                "caracteristica": "ISBN-10",
+                "detalhes": "8576574799"
+            },
+            {
+                "caracteristica": "ISBN-13",
+                "detalhes": "978-8576574798"
+            }
+        ],
+        "preco": 54.85,
+        "preco_promocional": 54.85
+    },
+    {
+        "id": 6,
+        "imagem": "img/planeta-dos-macacos.webp",
+        "nome": "O Planeta dos Macacos",
+        "rating": 4.8,
+        "likes": "89%",
+        "reviews": 30,
+        "descricao": "Após a terrível colisão de um meteorito contra o continente europeu, líderes mundiais e cientistas criaram um sistema de monitoramento para evitar que essas catástrofes voltassem a acontecer. Quase cinquenta anos depois, a humanidade acompanha, alarmada, a chegada de um novo objeto de proporções inimagináveis que avança na direção de nosso Sol. Uma expedição é enviada para explorar o que se imagina ser um meteoro colossal, mas que se revela uma sofisticada construção, repleta de enigmas que desafiam a mente e os conceitos humanos.",
+        "detalhes": [
+            {
+                "caracteristica": "Autor",
+                "detalhes": "Pierre Boulle"
+            },
+            {
+                "caracteristica": "Gênero",
+                "detalhes": "Ficção Científica"
+            },
+            {
+                "caracteristica": "Número de páginas",
+                "detalhes": "288 páginas"
+            },
+            {
+                "caracteristica": "Idioma",
+                "detalhes": "Português"
+            },
+            {
+                "caracteristica": "Editora",
+                "detalhes": "Aleph"
+            },
+            {
+                "caracteristica": "Data da publicação",
+                "detalhes": "4 fevereiro 2020"
+            },
+            {
+                "caracteristica": "ISBN-10",
+                "detalhes": "8576574799"
+            },
+            {
+                "caracteristica": "ISBN-13",
+                "detalhes": "978-8576574798"
+            }
+        ],
+        "preco": 54.55,
+        "preco_promocional": 54.55
     }
 ]
