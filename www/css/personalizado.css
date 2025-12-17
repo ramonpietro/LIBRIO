@@ -144,7 +144,6 @@ input[type="text"]{
 .swiper-slide {
     text-align: center;
     font-size: 18px;
-
     display: flex;
     justify-content: center;
     align-items: center;
@@ -163,15 +162,24 @@ input[type="text"]{
     color: var(--branco);
 }
 
-.filter-btn{
+.swiper-wrapper {
+    display: flex;
+    align-items: center;
+}
+
+.filter-btn {
     width: 100%;
     height: 35px;
-    background: none;
+    background: var(--verde);
+    color: var(--preto);
+    font-weight: 700;
+    text-transform: uppercase;
     border: 2px solid var(--preto);
     border-radius: 10px;
     white-space: nowrap;
     overflow: hidden;
     text-overflow: ellipsis;
+    cursor: pointer;
 }
 
 .row{
@@ -185,9 +193,8 @@ input[type="text"]{
     display: flex;
     flex-wrap: nowrap;
     flex-direction: column;
-    height: 260px;
     flex:45%;
-    margin-right: 5px;
+    margin-right: 8px;
     margin-bottom: 15px;
 }
 
