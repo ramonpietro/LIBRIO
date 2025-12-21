@@ -9,13 +9,14 @@
 
 body {
     font-family: "Bebas Neue", sans-serif;
+    color: var(--branco);
 }
 
 .nav-top.cart{
     display: flex;
     width: 100%;
     justify-content: space-between;
-    background-color: var(--branco);
+    background-color: var(--preto);
     padding: 10px 0px;
     align-items: center;
 }
@@ -28,7 +29,7 @@ body {
     height: 40px;
     border: 1px solid var(--gelo);
     border-radius: 50%;
-    color: var(--preto);
+    color: var(--branco);
 }
 
 .nav-top.cart a:first-child{
@@ -140,8 +141,8 @@ body {
     justify-content: center;
     width: 30px;
     height: 30px;
+    background-color: var(--preto);
     color: gray;
-    background-color: var(--branco);
     border: 1px solid var(--gelo);
     border-radius: 5px;
     font-size: 30px;
@@ -149,13 +150,14 @@ body {
 
 .plus {
     color: var(--verde);
+    background-color: var(--preto);
     border: 1px solid var(--verde);
 }
 
 .qtd-item {
     width: 30px;
     text-align: center;
-    background-color: var(--branco) !important;
+    background-color: var(--preto) !important;
 }
 
 .add-cart {
@@ -186,4 +188,5 @@ body {
 
 #totais {
     flex-direction: column;
+    color: var(--branco);
 }

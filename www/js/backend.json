@@ -3,7 +3,7 @@
         "id": 1,
         "imagem": "img/materia-escura.png",
         "nome": "Matéria Escura",
-        "principal_caracteristica": "Branco",
+        "principal_caracteristica": "Blake Crouch",
         "rating": 4.6,
         "likes": "98%",
         "reviews": 25,
@@ -49,7 +49,7 @@
         "id": 2,
         "imagem": "img/o-fim-da-eternidade.png",
         "nome": "O Fim da Eternidade",
-        "principal_caracteristica": "2 TB",
+        "principal_caracteristica": "Isaac Asimov",
         "rating": 4.8,
         "likes": "94%",
         "reviews": 15,
@@ -95,6 +95,7 @@
         "id": 3,
         "imagem": "img/a-guerra-dos-mundos.png",
         "nome": "A Guerra dos Mundos",
+        "principal_caracteristica": "H. G. Wells",
         "rating": 4.6,
         "likes": "90%",
         "reviews": 25,
@@ -134,12 +135,13 @@
             }
         ],
         "preco": 65.80,
-        "preco_promocional": 65.80
+        "preco_promocional": 50.80
     },
     {
         "id": 4,
         "imagem": "img/encontro-com-rama.png",
         "nome": "Encontro Com Rama",
+        "principal_caracteristica": "Arthur C. Clarke",
         "rating": 4.8,
         "likes": "89%",
         "reviews": 30,
@@ -179,12 +181,13 @@
             }
         ],
         "preco": 54.55,
-        "preco_promocional": 54.55
+        "preco_promocional": 42.00
     },
     {
         "id": 5,
         "imagem": "img/flores-para-algernon.png",
         "nome": "Flores Para Algernon",
+        "principal_caracteristica": "Daniel Keys",
         "rating": 4.8,
         "likes": "89%",
         "reviews": 30,
@@ -224,12 +227,13 @@
             }
         ],
         "preco": 54.85,
-        "preco_promocional": 54.85
+        "preco_promocional": 50.00
     },
     {
         "id": 6,
         "imagem": "img/planeta-dos-macacos.png",
         "nome": "O Planeta dos Macacos",
+        "principal_caracteristica": "Pierre Boulle",
         "rating": 4.8,
         "likes": "89%",
         "reviews": 30,
@@ -269,6 +273,98 @@
             }
         ],
         "preco": 54.55,
-        "preco_promocional": 54.55
+        "preco_promocional": 32.00
+    },
+    {
+        "id": 7,
+        "imagem": "img/o-problema-dos-tres-corpos.png",
+        "nome": "O Problema dos Três Corpos",
+        "principal_caracteristica": "Cixin Liu",
+        "rating": 4.7,
+        "likes": "89%",
+        "reviews": 6.350,
+        "descricao": "China, final dos anos 1960. Enquanto o país inteiro está sendo devastado pela violência da Revolução Cultural, um pequeno grupo de astrofísicos, militares e engenheiros começa um projeto ultrassecreto envolvendo ondas sonoras e seres extraterrestres. Uma decisão tomada por um desses cientistas mudará para sempre o destino da humanidade e, cinquenta anos depois, uma civilização alienígena a beira do colapso planeja uma invasão. O problema dos três corpos é uma crônica da marcha humana em direção aos confins do universo. Uma clássica história de ficção científica, no melhor estilo de Arthur C. Clarke. Um jogo envolvente em que a humanidade tem tudo a perder.",
+        "detalhes": [
+            {
+                "caracteristica": "Autor",
+                "detalhes": "Cixin Liu"
+            },
+            {
+                "caracteristica": "Gênero",
+                "detalhes": "Ficção Científica"
+            },
+            {
+                "caracteristica": "Número de páginas",
+                "detalhes": "507 páginas"
+            },
+            {
+                "caracteristica": "Idioma",
+                "detalhes": "Português"
+            },
+            {
+                "caracteristica": "Editora",
+                "detalhes": "SUMA"
+            },
+            {
+                "caracteristica": "Data da publicação",
+                "detalhes": "24 agosto 2016"
+            },
+            {
+                "caracteristica": "ISBN-10",
+                "detalhes": "9788543806877"
+            },
+            {
+                "caracteristica": "ISBN-13",
+                "detalhes": "978-8543806877"
+            }
+        ],
+        "preco": 62.90,
+        "preco_promocional": 60.00
+    },
+    {
+        "id": 8,
+        "imagem": "img/a-floresta-sombria.png",
+        "nome": "A Floresta Sombria",
+        "principal_caracteristica": "Cixin Liu",
+        "rating": 4.8,
+        "likes": "89%",
+        "reviews": 30,
+        "descricao": "Depois de O problema dos três corpos , a humanidade se prepara para a iminente invasão alienígena. A Organização Terra-Trissolaris ― formada por habitantes da Terra que traíram seus iguais para se associar aos alienígenas ― pode ter sido derrotada, mas a presença de partículas subatômicas, os sófons, revela todo o conhecimento da humanidade para os invasores, e as defesas terráqueas são um livro aberto para os trissolarianos. Nesse contexto, em que só a mente humana é segura, é montado o Projeto Barreiras: quatro pessoas serão encarregadas de pensar em uma estratégia para a salvação do mundo. A Barreira está completamente isolada, protegendo seus pensamentos do restante da humanidade, mas até que ponto é possível guardar um segredo?",
+        "detalhes": [
+            {
+                "caracteristica": "Autor",
+                "detalhes": "Pierre Boulle"
+            },
+            {
+                "caracteristica": "Gênero",
+                "detalhes": "Ficção Científica"
+            },
+            {
+                "caracteristica": "Número de páginas",
+                "detalhes": "288 páginas"
+            },
+            {
+                "caracteristica": "Idioma",
+                "detalhes": "Português"
+            },
+            {
+                "caracteristica": "Editora",
+                "detalhes": "Aleph"
+            },
+            {
+                "caracteristica": "Data da publicação",
+                "detalhes": "4 fevereiro 2020"
+            },
+            {
+                "caracteristica": "ISBN-10",
+                "detalhes": "8576574799"
+            },
+            {
+                "caracteristica": "ISBN-13",
+                "detalhes": "978-8576574798"
+            }
+        ],
+        "preco": 54.55,
+        "preco_promocional": 40.55
     }
 ]

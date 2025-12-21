@@ -6,6 +6,13 @@ var produtos = JSON.parse(localStorage.getItem('produtos'));
 
 var item = produtos.find(produto => produto.id === id);
 
+function formatarPreco(valor) {
+  return valor.toLocaleString('pt-BR', {
+    style: 'currency',
+    currency: 'BRL'
+  });
+}
+
 if(item){
     console.log('Produto encontrado: ',item);
 
@@ -14,6 +21,8 @@ if(item){
     $("#nome-detalhe").html(item.nome);
     $("#rating-detalhe").html(item.rating);
     $("#descricao").html(item.descricao);
+    $("#preco").html(formatarPreco(item.preco))
+    $("#preco-final").html(formatarPreco(item.preco_promocional));
     /*
         para os alunos fazer o resto
     */

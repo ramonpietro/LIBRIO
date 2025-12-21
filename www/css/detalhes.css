@@ -152,6 +152,7 @@ th{
 .preco-final{
     font-weight: 800;
     font-size: 28px;
+    color: var(--branco);
 }
 
 .add-cart{
@@ -164,4 +165,8 @@ th{
     cursor: pointer;
     font-size: 18px;
     font-weight: 800;
+}
+
+#descricao {
+    text-transform: lowercase !important;
 }
